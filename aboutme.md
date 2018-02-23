@@ -4,4 +4,4 @@ title: About me
 subtitle: Who am I?
 ---
 
-My name is Joshua Gutterman and I am a newly graduated Computer Engineer from the University of California, Santa Cruz. My studies focused on Robotics & Control, where I got apply my skills to a couple autonomous robotics projects which you can find more about on this website. 
+Beginning with my grandfather who built the rocket engines that put man on the moon, to my father who introduced me to the world of tools and working with your hands, becoming an engineer was inevitable. Now as a new graduated Computer Engineer from the University of California, Santa Cruz I look to carry on and apply my passion to some of the most interesting projects and industries that I can find. 
