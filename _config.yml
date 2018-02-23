@@ -1,5 +1,12 @@
 # --- General options --- #
 
+########
+#- I rock a great mustache
+#- I'm extremely loyal to my family
+### my history
+#To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+########
+
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
@@ -23,13 +30,12 @@ description: Portfolio
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Projects/Portfolio: "projects"
   # Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
   #  - GitHub Pages: "https://pages.github.com/"
-  Home: "http://deanattali.com"
+  About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -65,7 +71,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Joshua W. Gutterman
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
